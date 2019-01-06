@@ -1,1 +1,1 @@
-function moveDodgerRight() {};
+function moveDodgerRight(){}
